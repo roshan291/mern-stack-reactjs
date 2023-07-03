@@ -1,1 +1,1 @@
--w GO111MODULE=auto
+GO111MODULE=auto
