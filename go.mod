@@ -1,1 +1,1 @@
-github.com/roshan291/mern-stack-reactjs=auto
+github.com/roshan291/mern-stack-reactjs=off
