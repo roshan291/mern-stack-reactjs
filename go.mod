@@ -1,1 +1,1 @@
-mern-stack-reactjs.git=auto
+https://github.com/roshan291/mern-stack-reactjs=auto
