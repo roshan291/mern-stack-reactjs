@@ -1,0 +1,1 @@
+-w GO111MODULE=auto
