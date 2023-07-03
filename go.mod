@@ -1,1 +1,1 @@
-GO111MODULE=auto
+mern-stack-reactjs.git=auto
